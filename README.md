@@ -17,3 +17,5 @@ This is the **SilvFox Dark Version**: a dark-themed chat interface powered by Ch
 - `server.js` → Node.js backend
 - `setup_silvfox.bat` → Full automated setup and start script
 
+- CONTACT : helpmeucall@gmail.com
+
