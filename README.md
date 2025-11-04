@@ -3,7 +3,7 @@
 This is the **SilvFox Dark Version**: a dark-themed chat interface powered by ChatGPT.
 
 ## Installation & Start
-1. INSTALL node.js from browser LINK: https://nodejs.org/en/download    CLICK ON GREEN DOWNLOAD BUTTON
+1. INSTALL node.js from browser LINK: https://nodejs.org/en/download    GO DOWN TO WINDOWSinstaller.msi
 2. Clone the repository or unzip the downloaded ZIP.
 3. Double-click **setup_silvfox.bat**.
 4. The server will start automatically and your browser will open.
@@ -11,6 +11,10 @@ This is the **SilvFox Dark Version**: a dark-themed chat interface powered by Ch
 7. Double-click **setup_silvfox.bat**.
 8. Enter your OpenAI API key (if not already set).
 9. The server will start automatically and your browser will open.
+
+##INFO
+This is a free use for all DO NOT SELL IT ITS COPYRIGHT BY SlabyLol
+Get the OpenAI API key from Owner @SlabyLol
 
 ## Project Structure
 
