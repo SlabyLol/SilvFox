@@ -3,7 +3,7 @@
 This is the **SilvFox Dark Version**: a dark-themed chat interface powered by ChatGPT.
 
 ## Installation & Start
-1. INSTALL node.js from browser LINK: https://nodejs.org/en/download    CLICK ON GREEN BUTTON
+1. INSTALL node.js from browser LINK: https://nodejs.org/en/download    CLICK ON GREEN DOWNLOAD BUTTON
 2. Clone the repository or unzip the downloaded ZIP.
 3. Double-click **setup_silvfox.bat**.
 4. The server will start automatically and your browser will open.
