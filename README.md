@@ -16,6 +16,7 @@ This is the **SilvFox Dark Version**: a dark-themed chat interface powered by Ch
 - `script.js` → Frontend JavaScript
 - `server.js` → Node.js backend
 - `setup_silvfox.bat` → Full automated setup and start script
+- `uninstallSF.bat` → Full uninstaller (all data)
 
-- CONTACT : helpmeucall@gmail.com
+CONTACT : UNAVAILABLE
 
